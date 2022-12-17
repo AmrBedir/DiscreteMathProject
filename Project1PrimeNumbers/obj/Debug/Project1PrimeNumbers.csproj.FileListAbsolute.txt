@@ -1,0 +1,8 @@
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\bin\Debug\Project1PrimeNumbers.exe.config
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\bin\Debug\Project1PrimeNumbers.exe
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\bin\Debug\Project1PrimeNumbers.pdb
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\obj\Debug\Project1PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\obj\Debug\Project1PrimeNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\obj\Debug\Project1PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\obj\Debug\Project1PrimeNumbers.exe
+C:\Users\AMR BEDIR\source\repos\Project1PrimeNumbers\Project1PrimeNumbers\obj\Debug\Project1PrimeNumbers.pdb
