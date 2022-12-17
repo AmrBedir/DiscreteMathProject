@@ -1,0 +1,8 @@
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\bin\Debug\Project2PerfectNumbers.exe.config
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\bin\Debug\Project2PerfectNumbers.exe
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\bin\Debug\Project2PerfectNumbers.pdb
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\obj\Debug\Project2PerfectNumbers.csproj.AssemblyReference.cache
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\obj\Debug\Project2PerfectNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\obj\Debug\Project2PerfectNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\obj\Debug\Project2PerfectNumbers.exe
+C:\Users\AMR BEDIR\source\repos\Project2PerfectNumbers\Project2PerfectNumbers\obj\Debug\Project2PerfectNumbers.pdb
